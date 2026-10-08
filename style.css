@@ -78,9 +78,7 @@ nav a:hover {
     border-radius: 12px;
     padding: 15px;
     background-color: white;
-    box-sizing: border-box;
 }
-
 .produto img {
     width: 100%;
     height: 250px;
@@ -89,20 +87,16 @@ nav a:hover {
     display: block;
     margin-bottom: 12px;
 }
-
 .produto h3 {
     margin: 8px 0;
     font-size: 21px;
     color: #921b1b;
 }
-
 .produto p {
     margin: 8px 0;
     font-size: 15px;
     line-height: 1.4;
 }
-
-
 /* TÍTULOS */
 
 h2 {
@@ -110,8 +104,6 @@ h2 {
     color: #921b1b;
     margin: 40px 0 20px;
 }
-
-
 /* ACRÉSCIMOS */
 .acrescimos {
     max-width: 600px;
@@ -124,11 +116,9 @@ h2 {
     align-items: center;
     gap: 20px;
 }
-
 .lista-acrescimos {
     flex: 1;
 }
-
 .lista-acrescimos p {
     font-size: 15px;
     line-height: 1.5;
