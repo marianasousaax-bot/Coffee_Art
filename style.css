@@ -4,6 +4,15 @@ body {
     margin: 0;
 }
 
+.topo {
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: rgb(254, 251, 249);
+    border-bottom: 3px solid #97120b;
+
+
 }
 
 .logo img {
