@@ -3,7 +3,6 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
 }
-<!--20px na part de cima e em baixo e 50px direita e esquerda-->
 .topo {
     min-height: 150px;
     display: flex;
