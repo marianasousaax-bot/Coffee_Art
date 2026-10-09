@@ -3,13 +3,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
 }
-
+<!--20px na part de cima e em baixo e 50px direita e esquerda-->
 .topo {
     min-height: 150px;
     display: flex;
     align-items: center;
-    <!--20px na part de cima e em baixo e 50px direita e esquerda-->
-    padding: 20px 50px;
+    padding: 20px 500px;
     background-color: rgb(254, 251, 249);
     border-bottom: 3px solid #97120b;
 
